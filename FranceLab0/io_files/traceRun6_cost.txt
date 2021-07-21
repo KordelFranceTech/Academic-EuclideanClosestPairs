@@ -1,0 +1,22 @@
+
+
+	COST RUN FOR N = 6
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+	Cost for brute-force algorithm with input size 6:			36
+		Expected cost: 36
+	Cost for divide-and-conquer algorithm with input size 6:		12 (not including sorting)
+	Cost for divide-and-conquer algorithm with input size 6:		58 (including sorting)
+		Expected cost: 15
+-----------------------------------------------------------------------------------------
+
+Input Data:
+	point: x-value = 2.0, y-value = 3.0
+	point: x-value = 12.0, y-value = 30.0
+	point: x-value = 40.0, y-value = 50.0
+	point: x-value = 5.0, y-value = 1.0
+	point: x-value = 12.0, y-value = 10.0
+	point: x-value = 3.0, y-value = 4.0
+*****************************************************************************************
+*****************************************************************************************
+*****************************************************************************************

@@ -1,0 +1,116 @@
+
+
+	COST RUN FOR N = 100
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+	Cost for brute-force algorithm with input size 100:			10000
+		Expected cost: 10000
+	Cost for divide-and-conquer algorithm with input size 100:		256 (not including sorting)
+	Cost for divide-and-conquer algorithm with input size 100:		3939 (including sorting)
+		Expected cost: 664
+-----------------------------------------------------------------------------------------
+
+Input Data:
+	point: x-value = 29629.0, y-value = 17965.0
+	point: x-value = 11001.0, y-value = 7173.0
+	point: x-value = 13712.0, y-value = 29043.0
+	point: x-value = 22515.0, y-value = 29946.0
+	point: x-value = 15284.0, y-value = 2014.0
+	point: x-value = 15964.0, y-value = 2472.0
+	point: x-value = 6368.0, y-value = 3134.0
+	point: x-value = 4672.0, y-value = 11119.0
+	point: x-value = 8309.0, y-value = 6160.0
+	point: x-value = 10656.0, y-value = 24507.0
+	point: x-value = 22517.0, y-value = 28351.0
+	point: x-value = 2466.0, y-value = 29804.0
+	point: x-value = 27297.0, y-value = 28257.0
+	point: x-value = 8668.0, y-value = 3109.0
+	point: x-value = 2135.0, y-value = 31042.0
+	point: x-value = 3504.0, y-value = 27498.0
+	point: x-value = 22453.0, y-value = 6105.0
+	point: x-value = 17669.0, y-value = 5574.0
+	point: x-value = 9956.0, y-value = 6848.0
+	point: x-value = 15005.0, y-value = 13307.0
+	point: x-value = 19785.0, y-value = 28807.0
+	point: x-value = 32636.0, y-value = 19160.0
+	point: x-value = 15285.0, y-value = 13118.0
+	point: x-value = 8182.0, y-value = 31734.0
+	point: x-value = 1965.0, y-value = 9670.0
+	point: x-value = 4110.0, y-value = 24592.0
+	point: x-value = 20871.0, y-value = 28946.0
+	point: x-value = 8704.0, y-value = 1199.0
+	point: x-value = 15436.0, y-value = 28064.0
+	point: x-value = 10976.0, y-value = 13560.0
+	point: x-value = 18756.0, y-value = 9612.0
+	point: x-value = 9820.0, y-value = 30623.0
+	point: x-value = 18543.0, y-value = 32725.0
+	point: x-value = 23516.0, y-value = 4631.0
+	point: x-value = 12817.0, y-value = 11635.0
+	point: x-value = 15437.0, y-value = 27427.0
+	point: x-value = 9409.0, y-value = 32002.0
+	point: x-value = 26879.0, y-value = 21842.0
+	point: x-value = 28278.0, y-value = 10747.0
+	point: x-value = 4410.0, y-value = 7077.0
+	point: x-value = 30261.0, y-value = 4207.0
+	point: x-value = 5411.0, y-value = 8475.0
+	point: x-value = 3868.0, y-value = 26245.0
+	point: x-value = 8669.0, y-value = 32220.0
+	point: x-value = 13492.0, y-value = 14579.0
+	point: x-value = 17337.0, y-value = 17102.0
+	point: x-value = 27530.0, y-value = 26582.0
+	point: x-value = 14501.0, y-value = 28296.0
+	point: x-value = 33.0, y-value = 17805.0
+	point: x-value = 7667.0, y-value = 9443.0
+	point: x-value = 8592.0, y-value = 16671.0
+	point: x-value = 27087.0, y-value = 25637.0
+	point: x-value = 23594.0, y-value = 12813.0
+	point: x-value = 31204.0, y-value = 16731.0
+	point: x-value = 17319.0, y-value = 27504.0
+	point: x-value = 23974.0, y-value = 10031.0
+	point: x-value = 11127.0, y-value = 12393.0
+	point: x-value = 25614.0, y-value = 10477.0
+	point: x-value = 7935.0, y-value = 31759.0
+	point: x-value = 22912.0, y-value = 13665.0
+	point: x-value = 25245.0, y-value = 19246.0
+	point: x-value = 19426.0, y-value = 21364.0
+	point: x-value = 8579.0, y-value = 13865.0
+	point: x-value = 6118.0, y-value = 5237.0
+	point: x-value = 2923.0, y-value = 11677.0
+	point: x-value = 29623.0, y-value = 3626.0
+	point: x-value = 2185.0, y-value = 5226.0
+	point: x-value = 8306.0, y-value = 30953.0
+	point: x-value = 20740.0, y-value = 15836.0
+	point: x-value = 25774.0, y-value = 31761.0
+	point: x-value = 8320.0, y-value = 1784.0
+	point: x-value = 28638.0, y-value = 17736.0
+	point: x-value = 27988.0, y-value = 21972.0
+	point: x-value = 18184.0, y-value = 15671.0
+	point: x-value = 32316.0, y-value = 16972.0
+	point: x-value = 24772.0, y-value = 1641.0
+	point: x-value = 28749.0, y-value = 1839.0
+	point: x-value = 8048.0, y-value = 28963.0
+	point: x-value = 14927.0, y-value = 7029.0
+	point: x-value = 26000.0, y-value = 12610.0
+	point: x-value = 31098.0, y-value = 30448.0
+	point: x-value = 4537.0, y-value = 26904.0
+	point: x-value = 22261.0, y-value = 3629.0
+	point: x-value = 17443.0, y-value = 1711.0
+	point: x-value = 7269.0, y-value = 32059.0
+	point: x-value = 27016.0, y-value = 32397.0
+	point: x-value = 6418.0, y-value = 10596.0
+	point: x-value = 9134.0, y-value = 8640.0
+	point: x-value = 18508.0, y-value = 21938.0
+	point: x-value = 18809.0, y-value = 8816.0
+	point: x-value = 15552.0, y-value = 16029.0
+	point: x-value = 23862.0, y-value = 21770.0
+	point: x-value = 11183.0, y-value = 19707.0
+	point: x-value = 297.0, y-value = 22942.0
+	point: x-value = 3576.0, y-value = 20665.0
+	point: x-value = 8018.0, y-value = 7036.0
+	point: x-value = 11302.0, y-value = 30692.0
+	point: x-value = 10942.0, y-value = 31539.0
+	point: x-value = 3515.0, y-value = 24216.0
+	point: x-value = 5524.0, y-value = 296.0
+*****************************************************************************************
+*****************************************************************************************
+*****************************************************************************************

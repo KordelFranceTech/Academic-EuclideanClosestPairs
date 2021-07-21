@@ -1,0 +1,32 @@
+
+
+
+
+	CORRECTNESS RUN FOR N = 6
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+	Closest distance with brute-force algorithm: 1.4142135623730951
+	Closest distance with divide-and-conquer algorithm: 1.4142135623730951
+-----------------------------------------------------------------------------------------
+
+Top 3 ordered closest pairs sorted via merge sort:
+1	distance 1.4142135623730951 from point (2.0, 3.0) to point (3.0, 4.0)
+2	distance 3.605551275463989 from point (2.0, 3.0) to point (5.0, 1.0)
+3	distance 20.0 from point (12.0, 30.0) to point (12.0, 10.0)
+
+Top 5 ordered closest pairs sorted via merge sort:
+1	distance 1.4142135623730951 from point (2.0, 3.0) to point (3.0, 4.0)
+2	distance 3.605551275463989 from point (2.0, 3.0) to point (5.0, 1.0)
+3	distance 20.0 from point (12.0, 30.0) to point (12.0, 10.0)
+4	distance 34.40930106817051 from point (12.0, 30.0) to point (40.0, 50.0)
+5	distance 48.82622246293481 from point (12.0, 10.0) to point (40.0, 50.0)
+
+Input Data:
+	point: x-value = 2.0, y-value = 3.0
+	point: x-value = 12.0, y-value = 30.0
+	point: x-value = 40.0, y-value = 50.0
+	point: x-value = 5.0, y-value = 1.0
+	point: x-value = 12.0, y-value = 10.0
+	point: x-value = 3.0, y-value = 4.0
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------

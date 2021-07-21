@@ -1,0 +1,41 @@
+
+
+	COST RUN FOR N = 25
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+	Cost for brute-force algorithm with input size 25:			625
+		Expected cost: 625
+	Cost for divide-and-conquer algorithm with input size 25:		57 (not including sorting)
+	Cost for divide-and-conquer algorithm with input size 25:		570 (including sorting)
+		Expected cost: 116
+-----------------------------------------------------------------------------------------
+
+Input Data:
+	point: x-value = 19619.0, y-value = 19602.0
+	point: x-value = 15159.0, y-value = 12184.0
+	point: x-value = 520.0, y-value = 30721.0
+	point: x-value = 11689.0, y-value = 16619.0
+	point: x-value = 20820.0, y-value = 30175.0
+	point: x-value = 4483.0, y-value = 12308.0
+	point: x-value = 8421.0, y-value = 8360.0
+	point: x-value = 15208.0, y-value = 14169.0
+	point: x-value = 27673.0, y-value = 16733.0
+	point: x-value = 26571.0, y-value = 30985.0
+	point: x-value = 32191.0, y-value = 26639.0
+	point: x-value = 20752.0, y-value = 8229.0
+	point: x-value = 23419.0, y-value = 26652.0
+	point: x-value = 18610.0, y-value = 7993.0
+	point: x-value = 20036.0, y-value = 18537.0
+	point: x-value = 18464.0, y-value = 200.0
+	point: x-value = 32325.0, y-value = 24328.0
+	point: x-value = 31252.0, y-value = 30119.0
+	point: x-value = 18005.0, y-value = 31402.0
+	point: x-value = 11598.0, y-value = 2807.0
+	point: x-value = 13729.0, y-value = 27556.0
+	point: x-value = 30136.0, y-value = 12865.0
+	point: x-value = 11283.0, y-value = 28966.0
+	point: x-value = 31024.0, y-value = 3001.0
+	point: x-value = 6185.0, y-value = 1696.0
+*****************************************************************************************
+*****************************************************************************************
+*****************************************************************************************

@@ -1,0 +1,51 @@
+
+
+
+
+	CORRECTNESS RUN FOR N = 25
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+	Closest distance with brute-force algorithm: 1143.7281145447112
+	Closest distance with divide-and-conquer algorithm: 1143.7281145447112
+-----------------------------------------------------------------------------------------
+
+Top 3 ordered closest pairs sorted via merge sort:
+1	distance 1143.7281145447112 from point (19619.0, 19602.0) to point (20036.0, 18537.0)
+2	distance 1985.6046937897786 from point (15159.0, 12184.0) to point (15208.0, 14169.0)
+3	distance 2154.961716597304 from point (18610.0, 7993.0) to point (20752.0, 8229.0)
+
+Top 5 ordered closest pairs sorted via merge sort:
+1	distance 1143.7281145447112 from point (19619.0, 19602.0) to point (20036.0, 18537.0)
+2	distance 1985.6046937897786 from point (15159.0, 12184.0) to point (15208.0, 14169.0)
+3	distance 2154.961716597304 from point (18610.0, 7993.0) to point (20752.0, 8229.0)
+4	distance 2314.8816384428815 from point (32191.0, 26639.0) to point (32325.0, 24328.0)
+5	distance 4377.936728642843 from point (20820.0, 30175.0) to point (23419.0, 26652.0)
+
+Input Data:
+	point: x-value = 19619.0, y-value = 19602.0
+	point: x-value = 15159.0, y-value = 12184.0
+	point: x-value = 520.0, y-value = 30721.0
+	point: x-value = 11689.0, y-value = 16619.0
+	point: x-value = 20820.0, y-value = 30175.0
+	point: x-value = 4483.0, y-value = 12308.0
+	point: x-value = 8421.0, y-value = 8360.0
+	point: x-value = 15208.0, y-value = 14169.0
+	point: x-value = 27673.0, y-value = 16733.0
+	point: x-value = 26571.0, y-value = 30985.0
+	point: x-value = 32191.0, y-value = 26639.0
+	point: x-value = 20752.0, y-value = 8229.0
+	point: x-value = 23419.0, y-value = 26652.0
+	point: x-value = 18610.0, y-value = 7993.0
+	point: x-value = 20036.0, y-value = 18537.0
+	point: x-value = 18464.0, y-value = 200.0
+	point: x-value = 32325.0, y-value = 24328.0
+	point: x-value = 31252.0, y-value = 30119.0
+	point: x-value = 18005.0, y-value = 31402.0
+	point: x-value = 11598.0, y-value = 2807.0
+	point: x-value = 13729.0, y-value = 27556.0
+	point: x-value = 30136.0, y-value = 12865.0
+	point: x-value = 11283.0, y-value = 28966.0
+	point: x-value = 31024.0, y-value = 3001.0
+	point: x-value = 6185.0, y-value = 1696.0
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
